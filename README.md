@@ -1,4 +1,4 @@
-👋 Hi, I’m @bsmRabbi  
+👋 Hi, I’m @Rabbi  
 💻 Open-Source Enthusiast | Tech Explorer | Gamer |  
 
 ### 👀 Interests  
