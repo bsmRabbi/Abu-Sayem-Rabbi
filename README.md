@@ -20,7 +20,7 @@
 - LinkedIn: https://www.linkedin.com/in/abu-sayem-rabbi-aa23891ba/
 - Twitter: https://x.com/AbuSayemRabbi
 - Email: bsmrabbi@gmail.com
-- Website: https://x9yp1-abu-ahs0e.pyxl.ai/
+- Website: https://abusayemrabbi.netlify.app/
 
 ### 😄 Pronouns  
 He/Him 
